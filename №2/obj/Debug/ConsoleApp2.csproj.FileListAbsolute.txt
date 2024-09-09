@@ -1,7 +1,0 @@
-G:\3 семестр\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
-G:\3 семестр\ConsoleApp2\bin\Debug\ConsoleApp2.exe
-G:\3 семестр\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
-G:\3 семестр\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
-G:\3 семестр\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
-G:\3 семестр\ConsoleApp2\obj\Debug\ConsoleApp2.exe
-G:\3 семестр\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
