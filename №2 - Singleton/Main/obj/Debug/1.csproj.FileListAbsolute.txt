@@ -1,0 +1,7 @@
+G:\3 курс\Програмные модули\№2 - Singleton\1\bin\Debug\1.exe.config
+G:\3 курс\Програмные модули\№2 - Singleton\1\bin\Debug\1.exe
+G:\3 курс\Програмные модули\№2 - Singleton\1\bin\Debug\1.pdb
+G:\3 курс\Програмные модули\№2 - Singleton\1\obj\Debug\1.csproj.AssemblyReference.cache
+G:\3 курс\Програмные модули\№2 - Singleton\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+G:\3 курс\Програмные модули\№2 - Singleton\1\obj\Debug\1.exe
+G:\3 курс\Програмные модули\№2 - Singleton\1\obj\Debug\1.pdb
