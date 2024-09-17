@@ -1,6 +1,0 @@
-Student id = 1, Name = Alice, Courses = 2
-Student id = 2, Name = Ivan, Courses = 1
-Teacher id = 1, Name = Prof. Smith, Exp = 5, Courses = 1
-Teacher id = 2, Name = Prof. Oppenheimer, Exp = 15, Courses = 2
-Course id = 1, Name = Math, Teacher id = 1, Students id = 2
-Course id = 2, Name = Physics, Teacher id = 2, Students id = 1
