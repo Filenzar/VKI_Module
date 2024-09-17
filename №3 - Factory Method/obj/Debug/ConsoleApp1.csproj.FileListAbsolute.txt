@@ -1,0 +1,21 @@
+D:\College\3 курс\Разработка программных модулей\№2 -\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\College\3 курс\Разработка программных модулей\№2 -\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\College\3 курс\Разработка программных модулей\№2 -\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\College\3 курс\Разработка программных модулей\№2 -\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\College\3 курс\Разработка программных модулей\№2 -\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\College\3 курс\Разработка программных модулей\№2 -\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\College\3 курс\Разработка программных модулей\№2 -\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\College\3 курс\Разработка программных модулей\№2 - Factory Method\bin\Debug\ConsoleApp1.exe.config
+D:\College\3 курс\Разработка программных модулей\№2 - Factory Method\bin\Debug\ConsoleApp1.exe
+D:\College\3 курс\Разработка программных модулей\№2 - Factory Method\bin\Debug\ConsoleApp1.pdb
+D:\College\3 курс\Разработка программных модулей\№2 - Factory Method\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\College\3 курс\Разработка программных модулей\№2 - Factory Method\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\College\3 курс\Разработка программных модулей\№2 - Factory Method\obj\Debug\ConsoleApp1.exe
+D:\College\3 курс\Разработка программных модулей\№2 - Factory Method\obj\Debug\ConsoleApp1.pdb
+D:\College\3 курс\Разработка программных модулей\№3 - Factory Method\bin\Debug\ConsoleApp1.exe.config
+D:\College\3 курс\Разработка программных модулей\№3 - Factory Method\bin\Debug\ConsoleApp1.exe
+D:\College\3 курс\Разработка программных модулей\№3 - Factory Method\bin\Debug\ConsoleApp1.pdb
+D:\College\3 курс\Разработка программных модулей\№3 - Factory Method\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\College\3 курс\Разработка программных модулей\№3 - Factory Method\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\College\3 курс\Разработка программных модулей\№3 - Factory Method\obj\Debug\ConsoleApp1.exe
+D:\College\3 курс\Разработка программных модулей\№3 - Factory Method\obj\Debug\ConsoleApp1.pdb
