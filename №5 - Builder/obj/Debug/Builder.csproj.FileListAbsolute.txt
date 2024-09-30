@@ -1,0 +1,7 @@
+G:\3 курс\Програмные модули\№5 - Builder\Builder\bin\Debug\Builder.exe.config
+G:\3 курс\Програмные модули\№5 - Builder\Builder\bin\Debug\Builder.exe
+G:\3 курс\Програмные модули\№5 - Builder\Builder\bin\Debug\Builder.pdb
+G:\3 курс\Програмные модули\№5 - Builder\Builder\obj\Debug\Builder.csproj.AssemblyReference.cache
+G:\3 курс\Програмные модули\№5 - Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+G:\3 курс\Програмные модули\№5 - Builder\Builder\obj\Debug\Builder.exe
+G:\3 курс\Програмные модули\№5 - Builder\Builder\obj\Debug\Builder.pdb
