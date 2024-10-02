@@ -1,0 +1,20 @@
+D:\College\3 курс\Разработка программных модулей\Abstract Factory\bin\Debug\Abstract Factory.exe.config
+D:\College\3 курс\Разработка программных модулей\Abstract Factory\bin\Debug\Abstract Factory.exe
+D:\College\3 курс\Разработка программных модулей\Abstract Factory\bin\Debug\Abstract Factory.pdb
+D:\College\3 курс\Разработка программных модулей\Abstract Factory\obj\Debug\Abstract Factory.csproj.AssemblyReference.cache
+D:\College\3 курс\Разработка программных модулей\Abstract Factory\obj\Debug\Abstract_Factory.Properties.Resources.resources
+D:\College\3 курс\Разработка программных модулей\Abstract Factory\obj\Debug\Abstract Factory.csproj.GenerateResource.cache
+D:\College\3 курс\Разработка программных модулей\Abstract Factory\obj\Debug\Abstract Factory.csproj.CoreCompileInputs.cache
+D:\College\3 курс\Разработка программных модулей\Abstract Factory\obj\Debug\Abstract Factory.exe
+D:\College\3 курс\Разработка программных модулей\Abstract Factory\obj\Debug\Abstract Factory.pdb
+D:\College\3 курс\Разработка программных модулей\Abstract Factory\obj\Debug\Abstract_Factory.Form1.resources
+D:\College\3 курс\Разработка программных модулей\№4 - Abstract Factory\bin\Debug\Abstract Factory.exe.config
+D:\College\3 курс\Разработка программных модулей\№4 - Abstract Factory\bin\Debug\Abstract Factory.exe
+D:\College\3 курс\Разработка программных модулей\№4 - Abstract Factory\bin\Debug\Abstract Factory.pdb
+D:\College\3 курс\Разработка программных модулей\№4 - Abstract Factory\obj\Debug\Abstract Factory.csproj.AssemblyReference.cache
+D:\College\3 курс\Разработка программных модулей\№4 - Abstract Factory\obj\Debug\Abstract_Factory.Form1.resources
+D:\College\3 курс\Разработка программных модулей\№4 - Abstract Factory\obj\Debug\Abstract_Factory.Properties.Resources.resources
+D:\College\3 курс\Разработка программных модулей\№4 - Abstract Factory\obj\Debug\Abstract Factory.csproj.GenerateResource.cache
+D:\College\3 курс\Разработка программных модулей\№4 - Abstract Factory\obj\Debug\Abstract Factory.csproj.CoreCompileInputs.cache
+D:\College\3 курс\Разработка программных модулей\№4 - Abstract Factory\obj\Debug\Abstract Factory.exe
+D:\College\3 курс\Разработка программных модулей\№4 - Abstract Factory\obj\Debug\Abstract Factory.pdb
