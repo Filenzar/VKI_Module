@@ -1,0 +1,7 @@
+G:\3 курс\Програмные модули\№6 - Adapter Pattern\main\bin\Debug\main.exe.config
+G:\3 курс\Програмные модули\№6 - Adapter Pattern\main\bin\Debug\main.exe
+G:\3 курс\Програмные модули\№6 - Adapter Pattern\main\bin\Debug\main.pdb
+G:\3 курс\Програмные модули\№6 - Adapter Pattern\main\obj\Debug\main.csproj.AssemblyReference.cache
+G:\3 курс\Програмные модули\№6 - Adapter Pattern\main\obj\Debug\main.csproj.CoreCompileInputs.cache
+G:\3 курс\Програмные модули\№6 - Adapter Pattern\main\obj\Debug\main.exe
+G:\3 курс\Програмные модули\№6 - Adapter Pattern\main\obj\Debug\main.pdb
