@@ -1,0 +1,7 @@
+G:\3 курс\Програмные модули\№8 - Composite Pattern\CompositePattern\bin\Debug\CompositePattern.exe.config
+G:\3 курс\Програмные модули\№8 - Composite Pattern\CompositePattern\bin\Debug\CompositePattern.exe
+G:\3 курс\Програмные модули\№8 - Composite Pattern\CompositePattern\bin\Debug\CompositePattern.pdb
+G:\3 курс\Програмные модули\№8 - Composite Pattern\CompositePattern\obj\Debug\CompositePattern.csproj.AssemblyReference.cache
+G:\3 курс\Програмные модули\№8 - Composite Pattern\CompositePattern\obj\Debug\CompositePattern.csproj.CoreCompileInputs.cache
+G:\3 курс\Програмные модули\№8 - Composite Pattern\CompositePattern\obj\Debug\CompositePattern.exe
+G:\3 курс\Програмные модули\№8 - Composite Pattern\CompositePattern\obj\Debug\CompositePattern.pdb
