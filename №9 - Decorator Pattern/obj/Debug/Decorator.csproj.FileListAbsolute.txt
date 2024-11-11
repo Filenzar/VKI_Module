@@ -1,0 +1,14 @@
+G:\3 курс\Програмные модули\Decorator\bin\Debug\Decorator.exe.config
+G:\3 курс\Програмные модули\Decorator\bin\Debug\Decorator.exe
+G:\3 курс\Програмные модули\Decorator\bin\Debug\Decorator.pdb
+G:\3 курс\Програмные модули\Decorator\obj\Debug\Decorator.csproj.AssemblyReference.cache
+G:\3 курс\Програмные модули\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+G:\3 курс\Програмные модули\Decorator\obj\Debug\Decorator.exe
+G:\3 курс\Програмные модули\Decorator\obj\Debug\Decorator.pdb
+G:\3 курс\Програмные модули\№9 - Decorator Pattern\bin\Debug\Decorator.exe.config
+G:\3 курс\Програмные модули\№9 - Decorator Pattern\bin\Debug\Decorator.exe
+G:\3 курс\Програмные модули\№9 - Decorator Pattern\bin\Debug\Decorator.pdb
+G:\3 курс\Програмные модули\№9 - Decorator Pattern\obj\Debug\Decorator.csproj.AssemblyReference.cache
+G:\3 курс\Програмные модули\№9 - Decorator Pattern\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+G:\3 курс\Програмные модули\№9 - Decorator Pattern\obj\Debug\Decorator.exe
+G:\3 курс\Програмные модули\№9 - Decorator Pattern\obj\Debug\Decorator.pdb
