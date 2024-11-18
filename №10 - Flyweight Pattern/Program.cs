@@ -34,7 +34,7 @@ public class CharacterFactory
     public Character GetCharacter(string name, string type, string image)
     {
         // Ключ для персонажа
-        string key = $"{name}_{type}";
+        string key = $"{name}_{type}_{image}";
 
         // Если персонаж с таким ключом уже существует, возвращаем его
         if (_characters.ContainsKey(key))
