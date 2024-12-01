@@ -1,0 +1,7 @@
+D:\College\3 курс\Разработка программных модулей\Chain of Responsibility\bin\Debug\Chain of Responsibility.exe.config
+D:\College\3 курс\Разработка программных модулей\Chain of Responsibility\bin\Debug\Chain of Responsibility.exe
+D:\College\3 курс\Разработка программных модулей\Chain of Responsibility\bin\Debug\Chain of Responsibility.pdb
+D:\College\3 курс\Разработка программных модулей\Chain of Responsibility\obj\Debug\Chain of Responsibility.csproj.AssemblyReference.cache
+D:\College\3 курс\Разработка программных модулей\Chain of Responsibility\obj\Debug\Chain of Responsibility.csproj.CoreCompileInputs.cache
+D:\College\3 курс\Разработка программных модулей\Chain of Responsibility\obj\Debug\Chain of Responsibility.exe
+D:\College\3 курс\Разработка программных модулей\Chain of Responsibility\obj\Debug\Chain of Responsibility.pdb
