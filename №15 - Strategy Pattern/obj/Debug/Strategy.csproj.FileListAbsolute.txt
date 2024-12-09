@@ -1,0 +1,7 @@
+G:\3 курс\Програмные модули\Strategy\bin\Debug\Strategy.exe.config
+G:\3 курс\Програмные модули\Strategy\bin\Debug\Strategy.exe
+G:\3 курс\Програмные модули\Strategy\bin\Debug\Strategy.pdb
+G:\3 курс\Програмные модули\Strategy\obj\Debug\Strategy.csproj.AssemblyReference.cache
+G:\3 курс\Програмные модули\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+G:\3 курс\Програмные модули\Strategy\obj\Debug\Strategy.exe
+G:\3 курс\Програмные модули\Strategy\obj\Debug\Strategy.pdb
