@@ -1,7 +1,0 @@
-G:\3 курс\Програмные модули\Iterator\bin\Debug\Iterator.exe.config
-G:\3 курс\Програмные модули\Iterator\bin\Debug\Iterator.exe
-G:\3 курс\Програмные модули\Iterator\bin\Debug\Iterator.pdb
-G:\3 курс\Програмные модули\Iterator\obj\Debug\Iterator.csproj.AssemblyReference.cache
-G:\3 курс\Програмные модули\Iterator\obj\Debug\Iterator.csproj.CoreCompileInputs.cache
-G:\3 курс\Програмные модули\Iterator\obj\Debug\Iterator.exe
-G:\3 курс\Програмные модули\Iterator\obj\Debug\Iterator.pdb
