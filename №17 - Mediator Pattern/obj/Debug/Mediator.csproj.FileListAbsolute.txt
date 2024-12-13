@@ -1,0 +1,7 @@
+D:\College\3 курс\Разработка программных модулей\Mediator\bin\Debug\Mediator.exe.config
+D:\College\3 курс\Разработка программных модулей\Mediator\bin\Debug\Mediator.exe
+D:\College\3 курс\Разработка программных модулей\Mediator\bin\Debug\Mediator.pdb
+D:\College\3 курс\Разработка программных модулей\Mediator\obj\Debug\Mediator.csproj.AssemblyReference.cache
+D:\College\3 курс\Разработка программных модулей\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+D:\College\3 курс\Разработка программных модулей\Mediator\obj\Debug\Mediator.exe
+D:\College\3 курс\Разработка программных модулей\Mediator\obj\Debug\Mediator.pdb
