@@ -1,0 +1,7 @@
+D:\College\3 курс\Разработка программных модулей\Template\bin\Debug\Template.exe.config
+D:\College\3 курс\Разработка программных модулей\Template\bin\Debug\Template.exe
+D:\College\3 курс\Разработка программных модулей\Template\bin\Debug\Template.pdb
+D:\College\3 курс\Разработка программных модулей\Template\obj\Debug\Template.csproj.AssemblyReference.cache
+D:\College\3 курс\Разработка программных модулей\Template\obj\Debug\Template.csproj.CoreCompileInputs.cache
+D:\College\3 курс\Разработка программных модулей\Template\obj\Debug\Template.exe
+D:\College\3 курс\Разработка программных модулей\Template\obj\Debug\Template.pdb
