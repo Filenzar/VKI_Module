@@ -1,0 +1,4 @@
+#Нужно установить
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore
+System.Configuration.ConfigurationManager
